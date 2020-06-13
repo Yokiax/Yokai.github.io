@@ -1,2 +1,2 @@
-# Yokai.github.io
+# yokai.github.io
 blog?
